@@ -1,0 +1,4 @@
+{
+  "scripts/test_light_up.py::TestLights": true,
+  "scripts/test_light_up.py::TestLights::()": true
+}
