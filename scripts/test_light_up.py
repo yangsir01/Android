@@ -4,7 +4,7 @@ sys.path.append(os.getcwd())
 from page.light_up import LightUp
 
 
-class TestLights(LightUp):
+class TestLights(object):
     def setup(self):
         pass
 
